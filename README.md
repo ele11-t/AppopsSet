@@ -1,3 +1,7 @@
+<img width="452" height="292" alt="image" src="https://github.com/user-attachments/assets/d35a4dc6-0ed4-4ef7-8baf-2a28e24e2275" />
+<img width="1292" height="1623" alt="image" src="https://github.com/user-attachments/assets/7861bb3d-ca31-4a4a-aa49-cb758a57b2c9" />
+<img width="1292" height="1623" alt="image" src="https://github.com/user-attachments/assets/71b15589-3111-49d4-a5d4-79368979acca" />
+
 Android AppOps Controller (ADB 权限限制管理器)
 
 基于 Python Tkinter 构建的轻量级桌面端 Android 应用后台与权限管控工具。通过 ADB 底层 appops 指令，一键限制应用的后台运行、唤醒锁（WAKE_LOCK）、定时闹钟等行为，有效阻止流氓 App 后台保活、耗电与偷跑流量。
@@ -33,6 +37,8 @@ ADB 环境：电脑已配置 Android SDK Platform-Tools（命令行执行 adb de
 打开手机「开发者选项」。
 
 开启「USB 调试」（部分国产 ROM 如 MIUI/HyperOS、ColorOS 需额外开启「USB 调试（安全设置）- 允许模拟点击/权限修改」）。
+
+
 
 🚀 快速启动
 源码运行
